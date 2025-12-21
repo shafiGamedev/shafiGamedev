@@ -8,22 +8,15 @@ I’m currently learning Go and .NET Core to strengthen my backend and real-time
 
 
 Tools & Tech
-
 • Unity, C#, AR/VR, Real-Time Systems.
-
 • Client-Server Architecture, Raw Sockets.
-
 • Multitouch & Interaction Systems.
-
 • Go (learning), .NET Core (learning).
 
 
 A Bit About Me
-
 Enjoy playing Counter-Strike and exploring hyper-casual games.
-
 Actively involved in R&D on emerging technologies related to Unity, AR/VR, and real-time systems.
-
 Curious about performance optimization and scalable architectures.
 <!--
 **shafiGamedev/shafiGamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
