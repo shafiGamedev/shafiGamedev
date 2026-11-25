@@ -19,5 +19,4 @@ Enjoy playing Counter-Strike and exploring hyper-casual games.
 Actively involved in R&D on emerging technologies related to Unity, AR/VR, and real-time systems.    
 Curious about performance optimization and scalable architectures.
 
-Other Projects:
-https://docs.google.com/document/d/1cQpQnZlXSxv3ht5cQBwvYgayFkzm0kyK/edit?usp=sharing&ouid=108873742806718898503&rtpof=true&sd=true
+Portfolio: https://shafi-portfolio-xi.vercel.app/
